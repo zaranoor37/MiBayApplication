@@ -1,0 +1,68 @@
+Customers:
+sneha
+debsikdar
+135
+city road
+south bank
+3006
+N/A
+Customers:
+sneha
+deb
+135
+city road
+south bank
+3006
+N/A
+Customers:
+Zoya
+Aziz
+50
+Chambers st
+Brunswick
+3056
+N/A
+Customers:
+Naura
+Shahani
+29
+Cempaka st
+Kebayoran
+3090
+N/A
+Customers:
+Cindy
+William
+15
+Agung st
+Sunter
+3007
+N/A
+Customers:
+Zeshan
+Ziz
+05
+Dennis st
+Clayton
+3168
+N/A
+Product:
+glasses
+3.0
+10.0
+Product:
+Chilli Packet
+10.0
+5.0
+Product:
+Chocolate muffins
+60.0
+6.0
+Product:
+Tim tam
+80.0
+7.99
+Product:
+Miniso headphones
+55.0
+10.0
